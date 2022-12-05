@@ -1,8 +1,3 @@
-![License](https://img.shields.io/github/license/eclipse/hono)
-![Continuous Integration Build](https://img.shields.io/github/workflow/status/eclipse/hono/Build%20and%20run%20integration%20tests)
-![Docker Pulls](https://img.shields.io/docker/pulls/eclipse/hono-service-auth)
-![Latest Release](https://img.shields.io/docker/v/eclipse/hono-service-auth?sort=semver)
-
 ![Hono logo](logo/PNG-150dpi/HONO-Logo_Bild-Wort_quadrat-w-200x180px.png)
 
 [Eclipse Hono](https://www.eclipse.org/hono) provides uniform (remote) service interfaces for connecting large
